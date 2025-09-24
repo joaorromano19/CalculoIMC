@@ -5,19 +5,19 @@ O programa inclui tratamento de erros e garante que apenas valores numéricos e 
 
 ## Funcionalidades
 
-  Solicita peso e altura ao usuário.
+  - Solicita peso e altura ao usuário.
 
-  Aceita valores com vírgula , ou ponto . como separador decimal.
+  - Aceita valores com vírgula , ou ponto . como separador decimal.
 
 ### Validações:
 
-  Apenas números são permitidos.
+  - Apenas números são permitidos.
 
-  Peso e altura devem ser maiores que zero.
+  - Peso e altura devem ser maiores que zero.
 
 ### Cálculo do IMC com a fórmula:
 
-  IMC = peso / (altura * altura)
+  - IMC = peso / (altura * altura)
 
   
-  Opção de continuar calculando ou encerrar o programa.
+  - Opção de continuar calculando ou encerrar o programa.
