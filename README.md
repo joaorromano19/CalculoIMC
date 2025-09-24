@@ -9,6 +9,8 @@ O programa inclui tratamento de erros e garante que apenas valores numéricos e 
 
   - Aceita valores com vírgula , ou ponto . como separador decimal.
 
+  -   Opção de continuar calculando ou encerrar o programa.
+
 ### Validações:
 
   - Apenas números são permitidos.
@@ -18,7 +20,3 @@ O programa inclui tratamento de erros e garante que apenas valores numéricos e 
 ### Cálculo do IMC com a fórmula:
 
   - IMC = peso / (altura * altura)
-
-  
-  
-  Opção de continuar calculando ou encerrar o programa.
