@@ -20,4 +20,4 @@ O programa inclui tratamento de erros e garante que apenas valores numéricos e 
   - IMC = peso / (altura * altura)
 
   
-  - Opção de continuar calculando ou encerrar o programa.
+  Opção de continuar calculando ou encerrar o programa.
